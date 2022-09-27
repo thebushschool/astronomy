@@ -1,1 +1,1 @@
-# This i sproject folder for keplerian_orbits project
+# This is the project folder for keplerian_orbits project
