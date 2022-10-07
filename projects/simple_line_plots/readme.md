@@ -1,4 +1,4 @@
 # Learn how to make simple line plots with parameterized x and y values
 
-1. Copy paste the 2 sections "Matplotlib Pyplot" and "Matplotlib Plotting" [tutorials linked here](https://www.w3schools.com/python/matplotlib_pyplot.asp) by creating a [new Jupyter Notebook in the simple_line_plots project folder]()
+1. Copy paste the 2 sections "Matplotlib Pyplot" and "Matplotlib Plotting" [tutorials linked here](https://www.w3schools.com/python/matplotlib_pyplot.asp) by creating a [new Jupyter Notebook in the simple_line_plots project folder](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fsimple_line_plots%2Fline_plots_practice.ipynb)
 2.  Then [Open the notebook simple_line_plots.ipynb](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fsimple_line_plots) and complete per the instruction provided by drawing Ellipses and Elliptical orbits!
