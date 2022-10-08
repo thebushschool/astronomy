@@ -1,4 +1,4 @@
-## This is the projects repository for the Astronomy classroom
+## This is the workshops repository for the Astronomy classroom
 Workshop#|Topic Description|Start Page
 ---|---|--- 
 1|Markdown LaTeX Python Plotting|https://chandrunarayan.github.io/astronomy/projects/simple_line_plots
