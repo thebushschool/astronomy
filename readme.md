@@ -1,6 +1,6 @@
 ## This is the projects repository for the Astronomy classroom
 Workshop#|Topic Description|Start Page
----|:---:|---: 
+---|---|--- 
 1|Markdown LaTeX Python Plotting|https://chandrunarayan.github.io/astronomy/projects/simple_line_plots
 2|Measure the Diameter of the Sun|https://chandrunarayan.github.io/astronomy/projects/calculate_sun_dia
 3|Measure the Diameter of an Atom|https://chandrunarayan.github.io/astronomy/projects/calculate_atom_dia
