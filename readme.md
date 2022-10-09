@@ -15,5 +15,6 @@ Item|Topic Description
 
 Item|Live Stream links
 ---|---
-1|[Live Streams for a Mac](http://sciencelabbridges.com:8088/hls/stream.m3u8)
-2|[Other Live Streams](http://sciencelabbridges.com:8088/dash/stream.mpd)
+1|[Live Stream for a Mac Browser](http://sciencelabbridges.com:8088/hls/stream.m3u8)
+2|[Live Stream for Other Browsers ](http://sciencelabbridges.com:8088/dash/stream.mpd)
+3|[Live Stream to VLC](rtmp://sciencelabbridges.com/live/obs_stream)
