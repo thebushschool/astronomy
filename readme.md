@@ -11,7 +11,9 @@ Item|Topic Description
 7|[Measure Light Speed](https://chandrunarayan.github.io/astronomy/projects/measure_light_speed)
 8|[Earth Seasons Simulator](https://chandrunarayan.github.io/astronomy/projects/seasons_simulator)
 
-Item|Live Streams
+## Here are possible Live Streams during Observing Nights via the Bush Telescope
+
+Item|Live Stream links
 ---|---
 1|[Live Streams for a Mac](http://sciencelabbridges.com:8088/hls/stream.m3u8)
 2|[Other Live Streams](http://sciencelabbridges.com:8088/dash/stream.mpd)
