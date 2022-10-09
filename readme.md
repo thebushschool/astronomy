@@ -10,3 +10,8 @@ Item|Topic Description
 6|[Keplerian Orbits](https://chandrunarayan.github.io/astronomy/projects/keplerian_orbits)
 7|[Measure Light Speed](https://chandrunarayan.github.io/astronomy/projects/measure_light_speed)
 8|[Earth Seasons Simulator](https://chandrunarayan.github.io/astronomy/projects/seasons_simulator)
+
+Item|Live Streams
+---|---
+1|[Live Streams for a Mac](http://sciencelabbridges.com:8088/hls/stream.m3u8)
+2|[Other Live Streams](http://sciencelabbridges.com:8088/dash/stream.mpd)
