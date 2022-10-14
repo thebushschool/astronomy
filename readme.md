@@ -1,20 +1,20 @@
-## This is the workshops repository for the Astronomy classroom
+## This is the workshops repository for projects in the Astronomy classroom
 
-Item|Topic Description
+Project|Topic Description
 ---|---
-1|[Markdown LaTeX Python Plotting](https://chandrunarayan.github.io/astronomy/projects/simple_line_plots)
-2|[Measure the Diameter of the Sun](https://chandrunarayan.github.io/astronomy/projects/calculate_sun_dia)
-3|[Measure the Diameter of an Atom](https://chandrunarayan.github.io/astronomy/projects/calculate_atom_dia)
-4|[Singing Black Hole](https://chandrunarayan.github.io/astronomy/projects/singing_black_hole)
-5|[Measure the Diameter of the Earth](https://chandrunarayan.github.io/astronomy/projects/calculate_earth_dia)
-6|[Keplerian Orbits](https://chandrunarayan.github.io/astronomy/projects/keplerian_orbits)
-7|[Measure Light Speed](https://chandrunarayan.github.io/astronomy/projects/measure_light_speed)
-8|[Earth Seasons Simulator](https://chandrunarayan.github.io/astronomy/projects/seasons_simulator)
+1|<a href="https://chandrunarayan.github.io/astronomy/projects/simple_line_plots" target="_blank">Markdown LaTeX Python Plotting</a>
+2|<a href="https://chandrunarayan.github.io/astronomy/projects/calculate_sun_dia" target="_blank">Measure the Diameter of the Sun</a>
+3|<a href="https://chandrunarayan.github.io/astronomy/projects/calculate_atom_dia" target="_blank">Measure the Diameter of an Atom</a>
+4|<a href="https://chandrunarayan.github.io/astronomy/projects/singing_black_hole" target="_blank">Singing Black Hole</a>
+5|<a href="https://chandrunarayan.github.io/astronomy/projects/calculate_earth_dia" target="_blank">Measure the Diameter of the Earth</a>
+6|<a href="https://chandrunarayan.github.io/astronomy/projects/keplerian_orbits" target="_blank">Kepler's Laws & Keplerian Orbits</a>
+7|<a href="https://chandrunarayan.github.io/astronomy/projects/measure_light_speed" target="_blank">Measure Light Speed</a>
+8|<a href="https://chandrunarayan.github.io/astronomy/projects/seasons_simulator" target="_blank">Earth Seasons Simulator</a>
 
 ## Here are possible Live Streams during Observing Nights via the Bush Telescope
 
 Item|Live Stream links
 ---|---
-1|[Live Stream for a Mac Browser](http://sciencelabbridges.com:8088/hls/stream.m3u8)
-2|[Live Stream for Other Browsers ](http://sciencelabbridges.com:8088/dash/stream.mpd)
-3|[Live Stream to VLC](rtmp://sciencelabbridges.com/live/obs_stream)
+1|<a href="http://sciencelabbridges.com:8088/hls/stream.m3u8" target="_blank">Live Stream for a Mac Browser</a>
+2|<a href="http://sciencelabbridges.com:8088/dash/stream.mpd" target="_blank">Live Stream for Other Browsers</a>
+3|<a href="rtmp://sciencelabbridges.com/live/obs_stream" target="_blank">Live Stream to VLC</a>
