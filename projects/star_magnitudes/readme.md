@@ -1,0 +1,1 @@
+# Star Magnitudes & Logarithms Project
