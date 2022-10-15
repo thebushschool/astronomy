@@ -1,1 +1,1 @@
-# Discover and conform the existence of Exoplanets!
+# Discover Exoplanets and Measure their Light Curves!
