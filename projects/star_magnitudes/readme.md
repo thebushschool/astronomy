@@ -1,2 +1,2 @@
 # Star Magnitudes & Logarithms Project
-## *Under Constructipn*
+## *Under Construction*
