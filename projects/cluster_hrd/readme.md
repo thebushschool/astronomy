@@ -1,1 +1,1 @@
-# Hertzspring Russell Diagrams & Exponentials Project
+# Hertzsprung Russell Diagrams & Exponentials Project
