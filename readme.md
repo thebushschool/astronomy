@@ -17,7 +17,7 @@ Project|Topic Description
 
 ## Here are possible Live Streams during Observing Nights via the Bush Telescope
 
-Item|Live Stream links
+Item|Live Stream links (Disabled)
 ---|---
 1|<a href="http://sciencelabbridges.com:8088/hls/stream.m3u8" target="_blank">Live Stream for a Mac Browser</a>
 2|<a href="http://sciencelabbridges.com:8088/dash/stream.mpd" target="_blank">Live Stream for Other Browsers</a>
