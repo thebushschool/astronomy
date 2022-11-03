@@ -1,18 +1,18 @@
-Planet,Semimajor Axis (AU),Period (y),Eccentricity,Mass of Planet,Comment
-Mercury,0.39,0.24,0.21,,
-Venus,0.72,0.6,0.01,,
-Earth,1,1.00,0.02,,
-Mars,1.52,1.88,0.09,,
-Ceres,2.77,4.6,0.08,,
-Pallas,,,,,
-Jupiter,5.20,11.86,0.05,,
-Saturn,9.54,29.46,0.06,,
-Uranus,19.19,84.01,0.05,,
-Neptune,30.06,164.82,0.01,,
-Pluto,,,,,Search Google for Pluto orbital parameters
-Vesta,,,,,Search Google for Vesta orbital parameters
-Encke,,,,,Search Google for Pluto Encke parameters
-Halley,,,,,Search Google for Halley orbital parameters
-Haumea,,,,,Search Google for Haumea orbital parameters
-Makemake,,,,,Search Google for Makemake orbital parameters
-Eris,,,,,Search Google for Eris orbital parameters
+Planet,Semimajor Axis (AU),Period (y),Eccentricity,Semifocal Distance (AU),Semiminor Axis (AU),Perihelion Distance (AU)
+Mercury,0.39,0.24,0.21,,,
+Venus,0.72,0.6,0.01,,,
+Earth,1,1.00,0.02,,,
+Mars,1.52,1.88,0.09,,,
+Encke,2.21,3.3,0.847,,,
+Vesta,2.36,3.63,0.09,,,
+Ceres,2.77,4.6,0.08,,,
+Pallas,2.77,4.62,0.23,,,
+Jupiter,5.20,11.86,0.05,,,
+Saturn,9.54,29.46,0.06,,,
+Halley,17.94,76.1,0.967,,,
+Uranus,19.19,84.01,0.05,,,
+Neptune,30.06,164.82,0.01,,,
+Pluto,39.4,247,0.244,,,
+Haumea,43.18,283.77,0.194,,,
+Makemake,45.43,306.22,0.161,,,
+Eris,67.7,559.08,0.436,,,
