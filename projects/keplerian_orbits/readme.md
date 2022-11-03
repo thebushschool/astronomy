@@ -6,6 +6,10 @@ Use the references below to author the two Jupyter Notebooks on Kepler's Laws an
 * [Solar System Planetary Orbital Parameters](https://drive.google.com/file/d/1TT_SJSf7bK434GmUL4O1dOwhWMNH8lT5/view?usp=sharing)
 
 ### Jupyter Notebooks
+
+|---|---|---
+|1|REQUIRED|[Calculate the mass of the Central Star in the Kepler 11 System of Exoplanets!](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset)
+
 1. [REQUIRED: Calculate the mass of the Central Star in the Kepler 11 System of Exoplanets!](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset)
 1. [REVIEW: Kepler's Laws Team Quiz](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fkeplerian_orbits%2Fkeplers_laws.ipynb?reset)
 1. [OPTIONAL: Plot the keplerian orbits of Solar System Objects](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fkeplerian_orbits%2Fsolar_system_orbits.ipynb?reset)
