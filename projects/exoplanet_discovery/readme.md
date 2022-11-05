@@ -1,5 +1,5 @@
 ## NASA citizen science Project: [Discover Exoplanets and Measure their Light Curves!](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/)
-![epw](epw.png)
+<img src="astronomy/projects/exoplanet_discovery/epw.png" align="left" width=300px />
 When you look up into the night sky, do you wonder what's out there beyond our solar system? So do we! Come join us in learning more about exoplanets, the worlds that orbit distant stars.
 
 You don't have to be a rocket scientist or an astrophysist to actively participate in studying distant worlds. We’ll teach you what you need to know to become a citizen scientist collecting important data on exoplanets, and you don’t even need to have your own telescope. 
