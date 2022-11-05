@@ -14,7 +14,7 @@ We do! However, due to weather limited observing time via our own Bush Telescope
 
 NASA’s citizen science projects welcome members of the public to work with NASA data, your own obervations of the night sky, or both. Through collaborations with NASA scientists, volunteers (known as citizen scientists) have helped make thousands of important scientific discoveries. By participating in Exoplanet Watch, you can work with NASA on exoplanet science and learn more about the process of doing science. You don't have to be a professional scientist to participate. 
 
-[![IMAGE_ALT](https://img.youtube.com/vi/J04YN9azln8&t=2s/0.jpg)](https://www.youtube.com/watch?v=J04YN9azln8&t=2s)
+[![IMAGE_ALT](https://img.youtube.com/vi/J04YN9azln8&t=2s/0.jpg)]([https://www.youtube.com/watch?v=J04YN9azln8&t=2s](https://www.youtube.com/watch?v=0ZOhJe_7GrE))
 
 #### 1. Locate and learn about your assigned Exoplanet
 
