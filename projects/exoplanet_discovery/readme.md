@@ -1,6 +1,6 @@
 ### NASA citizen science Project: [Discover Exoplanets and Measure their Light Curves!](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/)
 
-![exoplanetwatch](astronomy/projects/exoplanet_discovery/exoplanetwatch.png)
+![exoplanetwatch](projects/exoplanet_discovery/exoplanetwatch.png)
 
 <img src="astronomy/projects/exoplanet_discovery/epw.png" align="left" width=300px />
 
