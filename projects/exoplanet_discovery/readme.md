@@ -1,12 +1,12 @@
 ### NASA citizen science Project: [Discover Exoplanets and Measure their Light Curves!](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/)
 
-![exoplanetwatch](projects/exoplanet_discovery/exoplanetwatch.png)
+![alt text](projects/exoplanet_discovery/exoplanetwatch.png)
 
 <img src="astronomy/projects/exoplanet_discovery/epw.png" align="left" width=300px />
 
 When you look up into the night sky, do you wonder what's out there beyond our solar system? So do we! Come join us in learning more about exoplanets, the worlds that orbit distant stars.
 
-![hatp32b](astronomy/projects/exoplanet_discovery/hatp32b.png)
+![alt text](astronomy/projects/exoplanet_discovery/hatp32b.png)
 
 You don't have to be a rocket scientist or an astrophysist to actively participate in studying distant worlds. We’ll teach you what you need to know to become a citizen scientist collecting important data on exoplanets, and you don’t even need to have your own telescope. 
 
@@ -28,7 +28,7 @@ Team Best | [HAT P-53 b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destina
 Team Callie | [WASP-135 b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/)  |  <a href="https://chandrunarayan.github.io/astronomy/projects/intro_to_jupyter" target="_blank">Introduction to Jupyter Notebooks Markdown and Python</a>
 
 #### 2. Click here to get the EXOTIC Jupyter Notebook to plot the Light Curve for your planet and do your analysis!
-![hatp32blightcurve](astronomy/projects/exoplanet_discovery/hatp32blightcurve.png)
+![alt text](astronomy/projects/exoplanet_discovery/hatp32blightcurve.png)
 
 #### 3. OPTIONAL: Submit the light curve for publication to the American Association of Variable Star Observers (AAVSO)  
 
