@@ -2,7 +2,8 @@
 
 ![alt text](exoplanetwatch.png)
 
-<img src="epw.png" align="left" width=300px />
+<img src="epw.png" align="left" width=200px />
+<img src="epw.png" align="right" width=200px />
 
 When you look up into the night sky, do you wonder what's out there beyond our solar system? So do we! Come join us in learning more about exoplanets, the worlds that orbit distant stars.
 
