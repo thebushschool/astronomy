@@ -1,6 +1,6 @@
 ### NASA citizen science Project: [Discover Exoplanets and Measure their Light Curves!](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/)
 
-<img src="exoplanetwatch.png" align="left" width=200px />
+<img src="exoplanetwatch.png" align="left" width=300px />
 <img src="epw.png" align="right" width=200px />
 
 When you look up into the night sky, do you wonder what's out there beyond our solar system? So do we! Come join us in learning more about exoplanets, the worlds that orbit distant stars.
