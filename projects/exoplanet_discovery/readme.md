@@ -15,7 +15,7 @@ NASA’s citizen science projects welcome members of the public to work with NAS
 
 #### What is an Exoplanet?
 
-[![Watch the video](https://img.youtube.com/vi/0ZOhJe_7GrE&t=24s/default.jpg)](https://youtu.be/0ZOhJe_7GrE&t=24s)
+[![Watch the video](https://img.youtube.com/vi/0ZOhJe_7GrE&t=24s/0.jpg)](https://youtu.be/0ZOhJe_7GrE&t=24s)
 
 #### 1. Locate and learn about your assigned Exoplanet
 
