@@ -2,7 +2,7 @@
 
 ![alt text](projects/exoplanet_discovery/exoplanetwatch.png)
 
-<img src="astronomy/projects/exoplanet_discovery/epw.png" align="left" width=300px />
+<img src="https://chandrnarayan.github.io/astronomy/projects/exoplanet_discovery/epw.png" align="left" width=300px />
 
 When you look up into the night sky, do you wonder what's out there beyond our solar system? So do we! Come join us in learning more about exoplanets, the worlds that orbit distant stars.
 
