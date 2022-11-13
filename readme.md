@@ -14,5 +14,5 @@ Project|Status|Topic Description
 9|🟣 UPCOMING|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Star Magnitudes & Logarithms</a>
 10|🟣 UPCOMING|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Closest Half-a-million Stars to the Sun</a>
 11|🟣 UPCOMING|<a href="https://chandrunarayan.github.io/astronomy/projects/cluster_hrd" target="_blank">Measure the Milky Way Galaxy with Variable Stars!</a>
-12|🔵 FINAL PROJECT<a href="https://chandrunarayan.github.io/astronomy/projects/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Open Star Clusters</a>
+12|🔵 FINAL PROJECT|<a href="https://chandrunarayan.github.io/astronomy/projects/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Open Star Clusters</a>
 
