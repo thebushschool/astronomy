@@ -9,7 +9,7 @@ Project|Topic Description
 4|<a href="https://chandrunarayan.github.io/astronomy/projects/calculate_earth_dia" target="_blank">Eratosthenes & Diameter of the Earth</a>
 5|<a href="https://chandrunarayan.github.io/astronomy/projects/simple_line_plots" target="_blank">Line & Scatter Plotting in Jupyter Notebook</a>
 6|<a href="https://chandrunarayan.github.io/astronomy/projects/seasons_simulator" target="_blank">Earth Seasons Axis Tilt & Sun Angles</a>
-7|<a href="https://chandrunarayan.github.io/astronomy/projects/keplerian_orbits" target="_blank">Kepler's Laws & Non-linear Functions</a>
+7|<a href="https://chandrunarayan.github.io/astronomy/projects/keplerian_orbits" target="_blank">Kepler's Laws, Non-linear Functions & Trappist 1 Exoplanetary System</a>
 8|<a href="https://chandrunarayan.github.io/astronomy/projects/keplerian_orbits" target="_blank">Measure Moon Diameter and Distance from a Partial Eclipse of the Moon!</a>
 9|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Star Magnitudes & Logarithms</a>
 10|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Closest Half-a-million Stars to the Sun</a>
