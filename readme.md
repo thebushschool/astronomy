@@ -10,15 +10,9 @@ Project|Topic Description
 5|<a href="https://chandrunarayan.github.io/astronomy/projects/simple_line_plots" target="_blank">Line & Scatter Plotting in Jupyter Notebook</a>
 6|<a href="https://chandrunarayan.github.io/astronomy/projects/seasons_simulator" target="_blank">Earth Seasons Axis Tilt & Sun Angles</a>
 7|<a href="https://chandrunarayan.github.io/astronomy/projects/keplerian_orbits" target="_blank">Kepler's Laws & Non-linear Functions</a>
-8|<a href="https://chandrunarayan.github.io/astronomy/projects/exoplanet_discovery" target="_blank">Discover Exoplanets & Measure their Light Curves</a>
+8|<a href="https://chandrunarayan.github.io/astronomy/projects/keplerian_orbits" target="_blank">Measure Moon Diameter and Distance from a Partial Eclipse of the Moon!</a>
 9|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Star Magnitudes & Logarithms</a>
-10|<a href="https://chandrunarayan.github.io/astronomy/projects/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams & Exponentials</a>
+10|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Closest Half-a-million Stars to the Sun</a>
+11|<a href="https://chandrunarayan.github.io/astronomy/projects/cluster_hrd" target="_blank">Measure the Milky Way Galaxy with Variable Stars!</a>
+12|<a href="https://chandrunarayan.github.io/astronomy/projects/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Open Star Clusters</a>
 
-
-## Here are possible Live Streams during Observing Nights via the Bush Telescope
-
-Item|Live Stream links (Disabled)
----|---
-1|<a href="http://sciencelabbridges.com:8088/hls/stream.m3u8" target="_blank">Live Stream for a Mac Browser</a>
-2|<a href="http://sciencelabbridges.com:8088/dash/stream.mpd" target="_blank">Live Stream for Other Browsers</a>
-3|<a href="rtmp://sciencelabbridges.com/live/obs_stream" target="_blank">Live Stream to VLC</a>
