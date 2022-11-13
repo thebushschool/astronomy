@@ -1,8 +1,8 @@
 ## This is the workshops repository for projects in the Astronomy classroom
 
-Project|Topic Description
----|---
-0|<a href="https://chandrunarayan.github.io/astronomy/projects/intro_to_jupyter" target="_blank">Introduction to Jupyter Notebooks Markdown and Python</a>
+Project|Status|Topic Description
+---|---|---
+0|<div style="background-color:#ADFF@F;color:black;"><b>DONE</b></div>|<a href="https://chandrunarayan.github.io/astronomy/projects/intro_to_jupyter" target="_blank">Introduction to Jupyter Notebooks Markdown and Python</a>
 1|<a href="https://chandrunarayan.github.io/astronomy/projects/calculate_sun_dia" target="_blank">Measure the Diameter of the Sun</a>
 2|<a href="https://chandrunarayan.github.io/astronomy/projects/calculate_atom_dia" target="_blank">Measure the Diameter of an Atom & Powers of 10</a>
 3|<a href="https://chandrunarayan.github.io/astronomy/projects/singing_black_hole" target="_blank">Singing Black Hole & LaTeX syntax</a>
