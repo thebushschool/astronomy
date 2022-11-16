@@ -10,9 +10,8 @@ Project|Status|Topic Description
 5|✅ DONE|<a href="https://chandrunarayan.github.io/astronomy/projects/simple_line_plots" target="_blank">Line & Scatter Plotting in Jupyter Notebook</a>
 6|✅ DONE|<a href="https://chandrunarayan.github.io/astronomy/projects/seasons_simulator" target="_blank">Earth Seasons Axis Tilt & Sun Angles</a>
 7|✅ DONE|<a href="https://chandrunarayan.github.io/astronomy/projects/keplerian_orbits" target="_blank">Kepler's Laws, Non-linear Functions & Trappist 1 Exoplanetary System</a>
-8|🟠 IN_WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/keplerian_orbits" target="_blank">Measure Moon Diameter and Distance from a Partial Eclipse of the Moon!</a>
-9|🟠 IN_WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Stellar Parallax Luminosity Magnitudes & Logarithms</a>
-10|🟣 UPCOMING|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Plot Closest Half-a-million Stars to the Sun in a Hertzsprung Russell Diagram</a>
-11|🟣 UPCOMING|<a href="https://chandrunarayan.github.io/astronomy/projects/cluster_hrd" target="_blank">Measure the Milky Way Galaxy with Variable Stars!</a>
-12|🔵 FINAL PROJECT|<a href="https://chandrunarayan.github.io/astronomy/projects/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Open Star Clusters</a>
+8|🟠 IN_WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Stellar Parallax Luminosity Magnitudes & Logarithms</a>
+9|🟣 UPCOMING|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Plot Closest Half-a-million Stars to the Sun in a Hertzsprung Russell Diagram</a>
+10|🟣 UPCOMING|<a href="https://chandrunarayan.github.io/astronomy/projects/cluster_hrd" target="_blank">Measure the Milky Way Galaxy with Variable Stars!</a>
+11|🔵 FINAL PROJECT|<a href="https://chandrunarayan.github.io/astronomy/projects/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Open Star Clusters</a>
 
