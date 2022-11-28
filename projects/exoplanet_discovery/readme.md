@@ -17,17 +17,16 @@ NASA’s citizen science projects welcome members of the public to work with NAS
 
 [![Watch the video](exovideo.png)](https://youtu.be/0ZOhJe_7GrE&t)
 
-#### 1. Locate and learn about your assigned Exoplanet
+#### 1. Locate and learn about your assigned Exoplanet. [Learn about Transit Curves for Exoplanertary Systems](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/#/2)
+
+#### 2. Click here to get the EXOTIC Jupyter Notebook in the table below to plot the Light Curve for your planet and do your analysis!
 
 Team | Locate Your assigned Exoplanet | Links for data
 --- | --- | --- |
-Team Lane | [Qatar-4b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/) | <a href="https://chandrunarayan.github.io/astronomy/projects/intro_to_jupyter" target="_blank">Introduction to Jupyter Notebooks Markdown and Python</a>
-Team William | [WASP-80b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/)  | <a href="https://chandrunarayan.github.io/astronomy/projects/intro_to_jupyter" target="_blank">Introduction to Jupyter Notebooks Markdown and Python</a>
-Team Best | [HAT P-53 b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/)  | <a href="https://chandrunarayan.github.io/astronomy/projects/intro_to_jupyter" target="_blank">Introduction to Jupyter Notebooks Markdown and Python</a>
-Team Callie | [WASP-135 b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/)  |  <a href="https://chandrunarayan.github.io/astronomy/projects/intro_to_jupyter" target="_blank">Introduction to Jupyter Notebooks Markdown and Python</a>
-
-#### 2. [Click here to get the EXOTIC Jupyter Notebook to plot the Light Curve for your planet and do your analysis!](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fexoplanet_discovery%2FExotic_Notebook.ipynb?reset)
-![alt text](hatp32blightcurve.png)
+Team Lane | [Qatar-4b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/) | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fexoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
+Team William | [WASP-80b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fexoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
+Team Best | [HAT P-53 b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fexoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
+Team Callie | [WASP-135 b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/)  |  <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fexoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
 
 #### 3. OPTIONAL: Submit the light curve for publication to the American Association of Variable Star Observers (AAVSO)  
 
