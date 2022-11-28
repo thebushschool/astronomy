@@ -28,5 +28,8 @@ Team William | [WASP-80b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destin
 Team Best | [HAT P-53 b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fexoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
 Team Callie | [WASP-135 b](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/)  |  <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fexoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
 
-#### 3. OPTIONAL: Submit the light curve for publication to the American Association of Variable Star Observers (AAVSO)  
+#### 3. REFERENCE: [Transit Light Curve Tutorial](https://avanderburg.github.io/tutorial/tutorial.html)
+
+#### 4. OPTIONAL: Submit the light curve for publication to the American Association of Variable Star Observers (AAVSO)  
+
 
