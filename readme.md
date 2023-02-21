@@ -12,5 +12,5 @@ Project|Status|Topic Description
 7|✅ DONE|<a href="https://chandrunarayan.github.io/astronomy/projects/keplerian_orbits" target="_blank">Kepler's Laws, Non-linear Functions & Trappist 1 Exoplanetary System</a>
 8|✅ DONE|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Stellar Parallax Luminosity Magnitudes & Logarithms</a>
 9|✅ DONE FINAL PROJECT|<a href="https://chandrunarayan.github.io/astronomy/projects/exoplanet_discovery" target="_blank">Discover a Exoplanet by plotting a Transit Light Curve - NASA Citizen Science Project</a>
-10|🔵 IN_WORK EXTRA CREDIT|<a href="https://chandrunarayan.github.io/astronomy/projects/exoplanet_discovery" target="_blank">Submit your Discovery of your assigned Exoplanet to the AAVSO - American Association of Variable Star Observers</a>
+10|🔵 IN_WORK EXTRA CREDIT|<a href="https://exoplanets.nasa.gov/exoplanet-watch/how-to-contribute/how-to-submit-your-data/" target="_blank">Submit your Discovery of your assigned Exoplanet to the AAVSO - American Association of Variable Star Observers</a>
 
