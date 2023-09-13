@@ -2,8 +2,8 @@
 
 Project|Status|Topic Description
 :---|:---|:---
-0|🔵 IN WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/intro_to_jupyter" target="_blank">Introduction to Jupyter Notebooks Markdown and Python</a>
-1|🔵 IN WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/calculate_sun_dia" target="_blank">Measure the Diameter of the Sun</a>
+0|🔵 IN WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/0_intro_to_jupyter" target="_blank">Introduction to Jupyter Notebooks Markdown and Python</a>
+1|🔵 IN WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/1_calculate_sun_dia" target="_blank">Measure the Diameter of the Sun</a>
 2|🟤 NOT ASSIGNED|<a href="https://chandrunarayan.github.io/astronomy/projects/calculate_atom_dia" target="_blank">Measure the Diameter of an Atom & Powers of 10</a>
 3|🟤 NOT ASSIGNED|<a href="https://chandrunarayan.github.io/astronomy/projects/singing_black_hole" target="_blank">Singing Black Hole & LaTeX syntax</a>
 4|🟤 NOT ASSIGNED|<a href="https://chandrunarayan.github.io/astronomy/projects/calculate_earth_dia" target="_blank">Eratosthenes & Diameter of the Earth</a>
