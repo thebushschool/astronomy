@@ -1,0 +1,2 @@
+6|🟤 NOT ASSIGNED|<a href="https://chandrunarayan.github.io/astronomy/projects/simple_line_plots" target="_blank">Line & Scatter Plotting in Jupyter Notebook</a>
+7|🟤 NOT ASSIGNED|<a href="https://chandrunarayan.github.io/astronomy/projects/seasons_simulator" target="_blank">Earth Seasons Axis Tilt & Sun Angles</a>
