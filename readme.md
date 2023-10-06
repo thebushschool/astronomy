@@ -5,9 +5,9 @@ Project|Status|Topic Description
 A|✅ COMPLETE|<a href="https://classroom.google.com/c/NjE4MjA4MDAxMzAy/a/NTg5NjAwODcxODQ4/details" target="_blank">Powers of 10 and Scientific Notation</a>
 0|✅ COMPLETE|<a href="https://chandrunarayan.github.io/astronomy/projects/0_intro_to_jupyter" target="_blank">Introduction to Jupyter Notebooks Markdown and Python</a>
 1|✅ COMPLETE|<a href="https://classroom.google.com/c/NjE4MjA4MDAxMzAy/a/NjE4MjA4MDAxMzIx/details">Measure the Diameter of the Sun</a>
-2|🔵 COMPLETE|<a href="https://classroom.google.com/c/NjE4MjA4MDAxMzAy/a/NjE4MjA4MDAxMzMw/details" target="_blank">Eratosthenes & Diameter of the Earth</a>
+2|✅ COMPLETE|<a href="https://classroom.google.com/c/NjE4MjA4MDAxMzAy/a/NjE4MjA4MDAxMzMw/details" target="_blank">Eratosthenes & Diameter of the Earth</a>
 3|🔵 IN WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/3_sun_earth_moon_eclipses" target="_blank">Sun Earth Moon Seasons and Eclipses</a>
-4|🔵 IN-WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/4_measure_astro_targets" target="_blank">Sun Earth Moon Seasons and Eclipses</a>
+4|🔵 IN-WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/4_measure_astro_targets" target="_blank">Measuring Astro Targets</a>
 5|🟡 UPCOMING|<a href="https://chandrunarayan.github.io/astronomy/projects/star_magnitudes" target="_blank">Stellar Luminosity Magnitudes & Logarithms</a>
 6|🟤 NOT ASSIGNED|<a href="https://chandrunarayan.github.io/astronomy/projects/calculate_atom_dia" target="_blank">Measure the Diameter of an Atom</a>
 7|🟤 NOT ASSI5GNED|<a href="https://chandrunarayan.github.io/astronomy/projects/singing_black_hole" target="_blank">Singing Black Hole & LaTeX syntax</a>
