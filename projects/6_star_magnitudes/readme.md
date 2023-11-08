@@ -7,4 +7,6 @@
 
 * [Access this pdf for Instructions](lco_remote_telescopes.pdf)
 
+* [Short Period Pulsator Targets](https://targettool.aavso.org/?spv=on&settype=true)
+
 * [Access Stellarium for Target Selection](https://stellarium-web.org/)
