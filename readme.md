@@ -9,8 +9,8 @@ A|✅ COMPLETE|<a href="https://classroom.google.com/c/NjE4MjA4MDAxMzAy/a/NTg5Nj
 3|✅ COMPLETE|<a href="https://chandrunarayan.github.io/astronomy/projects/3_sun_earth_moon_eclipses" target="_blank">Sun Earth Moon Seasons and Eclipses</a>
 4|✅ COMPLETE|<a href="https://chandrunarayan.github.io/astronomy/projects/4_measure_astro_targets" target="_blank">Measuring Astro Targets</a>
 5|✅ COMPLETE|<a href="https://chandrunarayan.github.io/astronomy/projects/5_calculate_atom_dia" target="_blank">Measure the Diameter of an Atom</a>
-6|🔵 IN-WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/6_star_magnitudes" target="_blank">Stellar Luminosity Magnitudes & Logarithms</a>
-7|🟡 UPCOMING|<a href="https://chandrunarayan.github.io/astronomy/projects/7_keplerian_orbits" target="_blank">Kepler's Laws, Non-linear Functions & Trappist 1 Exoplanetary System</a>
-8|🟤 NOT ASSIGNED FINAL PROJECT|<a href="https://chandrunarayan.github.io/astronomy/projects/8_exoplanet_discovery" target="_blank">Discover a Exoplanet by plotting a Transit Light Curve - NASA Citizen Science Project</a>
+6|✅ COMPLETE|<a href="https://chandrunarayan.github.io/astronomy/projects/6_star_magnitudes" target="_blank">Stellar Luminosity Magnitudes & Logarithms</a>
+7|🟡 IN WORK|<a href="https://chandrunarayan.github.io/astronomy/projects/7_keplerian_orbits" target="_blank">Kepler's Laws, Non-linear Functions & Trappist 1 Exoplanetary System</a>
+8|🟡 UPCOMING FINAL PROJECT|<a href="https://chandrunarayan.github.io/astronomy/projects/8_exoplanet_discovery" target="_blank">Discover a Exoplanet by plotting a Transit Light Curve - NASA Citizen Science Project</a>
 9|🟤 NOT ASSIGNED EXTRA CREDIT|<a href="https://exoplanets.nasa.gov/exoplanet-watch/how-to-contribute/how-to-submit-your-data/" target="_blank">Submit your Discovery of your assigned Exoplanet to the AAVSO - American Association of Variable Star Observers</a>
 
