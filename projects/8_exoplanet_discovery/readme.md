@@ -23,10 +23,10 @@ NASA’s citizen science projects welcome members of the public to work with NAS
 
 Team | AAVSO Exoplanet Images  | Jupyter Notebook
 --- | --- | --- |
-Team ONE | [WASP-85A b](wasp85ab)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
-Team TWO | [HAT P-53 b](hatp53b)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
-Team THREE | [WASP-135 b](wasp135b)  |  <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
-Team FOUR | [Qatar-4b](qatar4b) | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
+Team ONE | [WASP-183 b](wasp183b)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
+Team TWO | [HAT-P-3 b](hatp3b)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
+Team THREE | [K2-22 b](k222b)  |  <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
+Team FOUR | [HAT-P-37 b](hatp37b) | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
 
 #### 3. REFERENCE: [Transit Light Curve Tutorial](https://avanderburg.github.io/tutorial/tutorial.html)
 
