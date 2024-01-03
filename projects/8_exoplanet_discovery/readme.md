@@ -17,7 +17,7 @@ NASA’s citizen science projects welcome members of the public to work with NAS
 
 [![Watch the video](exovideo.png)](https://youtu.be/0ZOhJe_7GrE&t)
 
-#### 1. [Harvard/Smithsonian DIY ExoPlanet Search Workshop](https://mo-www.cfa.harvard.edu/MicroObservatory/)
+#### 1. Schedule an Exoplanet observation using [Harvard/Smithsonian DIY ExoPlanet Search](https://mo-www.cfa.harvard.edu/MicroObservatory/)
 
 #### 2. Practice plotting a light curve for HATP-32 b exoplanet. The light curve for this should be submitted - see links below
 
