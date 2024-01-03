@@ -1,4 +1,4 @@
-### NASA citizen science Project: [Discover Exoplanets and Measure their Light Curves!](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/)
+a### NASA citizen science Project: [Discover Exoplanets and Measure their Light Curves!](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/)
 
 <img src="exoplanetwatch.png" width=300px />
 <img src="epw.png" width=200px />
@@ -17,19 +17,21 @@ NASA’s citizen science projects welcome members of the public to work with NAS
 
 [![Watch the video](exovideo.png)](https://youtu.be/0ZOhJe_7GrE&t)
 
-#### 1. Practice plotting a light curve for HATP-32 b exoplanet. The light curve for this should be submitted - see links below
+#### 1. [Harvard/Smithsonian DIY ExoPlanet Search Workshop](https://mo-www.cfa.harvard.edu/MicroObservatory/)
 
-#### 2. Locate and learn about your assigned Exoplanet. [Learn about Transit Curves for Exoplanertary Systems](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/#/2)
+#### 2. Practice plotting a light curve for HATP-32 b exoplanet. The light curve for this should be submitted - see links below
 
-#### 3. [Search for your Assigned Exoplanet at the NASA archive](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/) here. Then Click below to get the Starfield Images, EXOTIC Jupyter Notebook in the table below to plot the Light Curve for your planet and complete your analysis!
+#### 3. Locate and learn about your assigned Exoplanet. [Learn about Transit Curves for Exoplanertary Systems](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/#/2)
+
+#### 4. [Search for your Assigned Exoplanet at the NASA archive](https://exoplanets.nasa.gov/eyes-on-exoplanets/?destinations=%2Falien-worlds%2Fexoplanet-travel-bureau%3Fcid%3D1%2Ctravel_bureau_missions#/) here. Then Click below to get the Starfield Images, EXOTIC Jupyter Notebook in the table below to plot the Light Curve for your planet and complete your analysis!
 
 Team | AAVSO Exoplanet Images  | Jupyter Notebook
 --- | --- | --- |
 Individual Practice | [HAT-P-32 b](https://exoplanets.nasa.gov/exoplanet-catalog/1434/hat-p-32-b/)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
-Team ONE | [WASP-183 b](https://exoplanets.nasa.gov/exoplanet-catalog/6525/wasp-183-b/)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
-Team TWO | [HAT-P-53 b](https://exoplanets.nasa.gov/exoplanet-catalog/4254/hat-p-53-b/)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
-Team THREE | [WASP-43 b](https://exoplanets.nasa.gov/exoplanet-catalog/5675/wasp-43-b/)  |  <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
-Team FOUR | [WASP-12 b](https://exoplanets.nasa.gov/exoplanet-catalog/5120/wasp-12-b/) | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
+Team Capella | [WASP-183 b](https://exoplanets.nasa.gov/exoplanet-catalog/6525/wasp-183-b/)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
+Team Polaris | [HAT-P-53 b](https://exoplanets.nasa.gov/exoplanet-catalog/4254/hat-p-53-b/)  | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
+Team Vega | [WASP-43 b](https://exoplanets.nasa.gov/exoplanet-catalog/5675/wasp-43-b/)  |  <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
+Team Arcturus | [WASP-12 b](https://exoplanets.nasa.gov/exoplanet-catalog/5120/wasp-12-b/) | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
 
 #### 3. REFERENCE: [Transit Light Curve Tutorial](https://avanderburg.github.io/tutorial/tutorial.html)
 
