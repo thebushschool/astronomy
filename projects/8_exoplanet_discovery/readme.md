@@ -1,4 +1,4 @@
-a### NASA citizen science Project: [Discover Exoplanets and Measure their Light Curves!](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/)
+#### NASA citizen science Project: [Discover Exoplanets and Measure their Light Curves!](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/)
 
 <img src="exoplanetwatch.png" width=300px />
 <img src="epw.png" width=200px />
