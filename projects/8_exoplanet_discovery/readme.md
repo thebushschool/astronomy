@@ -33,7 +33,7 @@ Team Polaris | [HAT-P-53 b](https://exoplanets.nasa.gov/exoplanet-catalog/4254/h
 Team Vega | [Qatar-4 b](https://exoplanets.nasa.gov/exoplanet-catalog/3487/qatar-4-b/)  |  <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
 Team Arcturus | [WASP-12 b](https://exoplanets.nasa.gov/exoplanet-catalog/5120/wasp-12-b/) | <a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F8_exoplanet_discovery%2FBush_Exotic.ipynb?reset">Bush EXOTIC Jupyter Notebook</a>
 
-#### 3. REFERENCE: [Transit Light Curve Tutorial](https://avanderburg.github.io/tutorial/tutorial.html)
+#### 3. REFERENCE: [Transit Light Curve Shapes](https://blog.planethunters.org/2021/11/15/u-or-v-shaped-dip-how-to-spot-the-difference/#:~:text=An%20exoplanet%20transiting%20a%20star,dip%20most%20of%20the%20time) [Transit Light Curve Tutorial](https://avanderburg.github.io/tutorial/tutorial.html)
 
 #### 4. OPTIONAL: Submit the light curve for publication to the American Association of Variable Star Observers (AAVSO)  
 
