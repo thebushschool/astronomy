@@ -12,5 +12,5 @@ Use the references below to author the two Jupyter Notebooks on Kepler's Laws an
 
 | Task | Status | Link
 | :--- | :--- | :--- |
-| 1 | Homework | [Calculate the altitude of the Sun at Noon in various cities today](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F3_sun_earth_moon_eclipses%2Fseasons_simulator.ipynb?reset)
+| 1 | Homework | [Calculate the altitude of the Sun at Noon in various cities today](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fthebushschool%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2F3_sun_earth_moon_eclipses%2Fseasons_simulator.ipynb?reset)
 
